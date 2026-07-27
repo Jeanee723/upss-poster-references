@@ -6,6 +6,7 @@ Prior-Informed Pediatric Population Pharmacokinetic Modeling
 
 ## Authors
 Jiyeon Jeon1, Seongmee Jeong1, Soyoung Lee1 , Jung-woo CHAE1,2, Hwi-yeol Yun1,2
+
 1 College of Pharmacy, Chungnam National University, Daejeon 34134, Korea  
 2 Department of Bio-AI Convergence, Chungnam National University, Daejeon 34134, Korea
 
